@@ -20,7 +20,7 @@ I cloned the starter code provided for the students in the class.
 This was a learning activity only. The website isn't connected to a real company.
 
 ## Credits
-The starter code was provided by the coding bootcamp programmers. Our instructors and TA provided guidance and offered advise on how to work through the project. 
+The starter code was provided by the coding bootcamp programmers from UConn. Our instructors and TA provided guidance and offered advise on how to work through the project. 
 
 I used notes from the coding bootcamp class I am taking through UConn. I also used the information from W3Schools at https://www.w3schools.com/. I referenced the book <i>HTML, CSS & JavaScript</i> by Mike McGrath.
 
